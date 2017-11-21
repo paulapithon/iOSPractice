@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  First App
+//  Catch Snuffles
 //
-//  Created by Paula on 20/11/17.
+//  Created by Paula on 21/11/17.
 //  Copyright © 2017 Paula Pithon. All rights reserved.
 //
 

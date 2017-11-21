@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DA3CE2251FC3401600F3A9DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3CE2241FC3401600F3A9DB /* AppDelegate.swift */; };
-		DA3CE2271FC3401600F3A9DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3CE2261FC3401600F3A9DB /* ViewController.swift */; };
-		DA3CE22A1FC3401600F3A9DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE2281FC3401600F3A9DB /* Main.storyboard */; };
-		DA3CE22C1FC3401600F3A9DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE22B1FC3401600F3A9DB /* Assets.xcassets */; };
-		DA3CE22F1FC3401600F3A9DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE22D1FC3401600F3A9DB /* LaunchScreen.storyboard */; };
-		DA3CE2371FC3447E00F3A9DB /* Profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE2361FC3447E00F3A9DB /* Profile.jpeg */; };
+		DA3CE29F1FC42E3300F3A9DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3CE29E1FC42E3300F3A9DB /* AppDelegate.swift */; };
+		DA3CE2A11FC42E3300F3A9DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3CE2A01FC42E3300F3A9DB /* ViewController.swift */; };
+		DA3CE2A41FC42E3300F3A9DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE2A21FC42E3300F3A9DB /* Main.storyboard */; };
+		DA3CE2A61FC42E3300F3A9DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE2A51FC42E3300F3A9DB /* Assets.xcassets */; };
+		DA3CE2A91FC42E3300F3A9DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE2A71FC42E3300F3A9DB /* LaunchScreen.storyboard */; };
+		DA3CE2B11FC42E7500F3A9DB /* snuffles.png in Resources */ = {isa = PBXBuildFile; fileRef = DA3CE2B01FC42E7500F3A9DB /* snuffles.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DA3CE2211FC3401600F3A9DB /* First App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "First App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA3CE2241FC3401600F3A9DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DA3CE2261FC3401600F3A9DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DA3CE2291FC3401600F3A9DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DA3CE22B1FC3401600F3A9DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DA3CE22E1FC3401600F3A9DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DA3CE2301FC3401600F3A9DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DA3CE2361FC3447E00F3A9DB /* Profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Profile.jpeg; sourceTree = "<group>"; };
+		DA3CE29B1FC42E3300F3A9DB /* Catch Snuffles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Catch Snuffles.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA3CE29E1FC42E3300F3A9DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DA3CE2A01FC42E3300F3A9DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DA3CE2A31FC42E3300F3A9DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DA3CE2A51FC42E3300F3A9DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DA3CE2A81FC42E3300F3A9DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DA3CE2AA1FC42E3300F3A9DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA3CE2B01FC42E7500F3A9DB /* snuffles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snuffles.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DA3CE21E1FC3401600F3A9DB /* Frameworks */ = {
+		DA3CE2981FC42E3300F3A9DB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,73 +37,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DA3CE2181FC3401600F3A9DB = {
+		DA3CE2921FC42E3200F3A9DB = {
 			isa = PBXGroup;
 			children = (
-				DA3CE2231FC3401600F3A9DB /* First App */,
-				DA3CE2221FC3401600F3A9DB /* Products */,
+				DA3CE29D1FC42E3300F3A9DB /* Catch Snuffles */,
+				DA3CE29C1FC42E3300F3A9DB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DA3CE2221FC3401600F3A9DB /* Products */ = {
+		DA3CE29C1FC42E3300F3A9DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA3CE2211FC3401600F3A9DB /* First App.app */,
+				DA3CE29B1FC42E3300F3A9DB /* Catch Snuffles.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DA3CE2231FC3401600F3A9DB /* First App */ = {
+		DA3CE29D1FC42E3300F3A9DB /* Catch Snuffles */ = {
 			isa = PBXGroup;
 			children = (
-				DA3CE2241FC3401600F3A9DB /* AppDelegate.swift */,
-				DA3CE2261FC3401600F3A9DB /* ViewController.swift */,
-				DA3CE2361FC3447E00F3A9DB /* Profile.jpeg */,
-				DA3CE2281FC3401600F3A9DB /* Main.storyboard */,
-				DA3CE22B1FC3401600F3A9DB /* Assets.xcassets */,
-				DA3CE22D1FC3401600F3A9DB /* LaunchScreen.storyboard */,
-				DA3CE2301FC3401600F3A9DB /* Info.plist */,
+				DA3CE29E1FC42E3300F3A9DB /* AppDelegate.swift */,
+				DA3CE2A01FC42E3300F3A9DB /* ViewController.swift */,
+				DA3CE2B01FC42E7500F3A9DB /* snuffles.png */,
+				DA3CE2A21FC42E3300F3A9DB /* Main.storyboard */,
+				DA3CE2A51FC42E3300F3A9DB /* Assets.xcassets */,
+				DA3CE2A71FC42E3300F3A9DB /* LaunchScreen.storyboard */,
+				DA3CE2AA1FC42E3300F3A9DB /* Info.plist */,
 			);
-			path = "First App";
+			path = "Catch Snuffles";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DA3CE2201FC3401600F3A9DB /* First App */ = {
+		DA3CE29A1FC42E3300F3A9DB /* Catch Snuffles */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA3CE2331FC3401600F3A9DB /* Build configuration list for PBXNativeTarget "First App" */;
+			buildConfigurationList = DA3CE2AD1FC42E3300F3A9DB /* Build configuration list for PBXNativeTarget "Catch Snuffles" */;
 			buildPhases = (
-				DA3CE21D1FC3401600F3A9DB /* Sources */,
-				DA3CE21E1FC3401600F3A9DB /* Frameworks */,
-				DA3CE21F1FC3401600F3A9DB /* Resources */,
+				DA3CE2971FC42E3300F3A9DB /* Sources */,
+				DA3CE2981FC42E3300F3A9DB /* Frameworks */,
+				DA3CE2991FC42E3300F3A9DB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "First App";
-			productName = "First App";
-			productReference = DA3CE2211FC3401600F3A9DB /* First App.app */;
+			name = "Catch Snuffles";
+			productName = "Catch Snuffles";
+			productReference = DA3CE29B1FC42E3300F3A9DB /* Catch Snuffles.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DA3CE2191FC3401600F3A9DB /* Project object */ = {
+		DA3CE2931FC42E3200F3A9DB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
 				LastUpgradeCheck = 0910;
 				ORGANIZATIONNAME = "Paula Pithon";
 				TargetAttributes = {
-					DA3CE2201FC3401600F3A9DB = {
+					DA3CE29A1FC42E3300F3A9DB = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = DA3CE21C1FC3401600F3A9DB /* Build configuration list for PBXProject "First App" */;
+			buildConfigurationList = DA3CE2961FC42E3200F3A9DB /* Build configuration list for PBXProject "Catch Snuffles" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,55 +111,55 @@
 				en,
 				Base,
 			);
-			mainGroup = DA3CE2181FC3401600F3A9DB;
-			productRefGroup = DA3CE2221FC3401600F3A9DB /* Products */;
+			mainGroup = DA3CE2921FC42E3200F3A9DB;
+			productRefGroup = DA3CE29C1FC42E3300F3A9DB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA3CE2201FC3401600F3A9DB /* First App */,
+				DA3CE29A1FC42E3300F3A9DB /* Catch Snuffles */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DA3CE21F1FC3401600F3A9DB /* Resources */ = {
+		DA3CE2991FC42E3300F3A9DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA3CE22F1FC3401600F3A9DB /* LaunchScreen.storyboard in Resources */,
-				DA3CE2371FC3447E00F3A9DB /* Profile.jpeg in Resources */,
-				DA3CE22C1FC3401600F3A9DB /* Assets.xcassets in Resources */,
-				DA3CE22A1FC3401600F3A9DB /* Main.storyboard in Resources */,
+				DA3CE2A91FC42E3300F3A9DB /* LaunchScreen.storyboard in Resources */,
+				DA3CE2B11FC42E7500F3A9DB /* snuffles.png in Resources */,
+				DA3CE2A61FC42E3300F3A9DB /* Assets.xcassets in Resources */,
+				DA3CE2A41FC42E3300F3A9DB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DA3CE21D1FC3401600F3A9DB /* Sources */ = {
+		DA3CE2971FC42E3300F3A9DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA3CE2271FC3401600F3A9DB /* ViewController.swift in Sources */,
-				DA3CE2251FC3401600F3A9DB /* AppDelegate.swift in Sources */,
+				DA3CE2A11FC42E3300F3A9DB /* ViewController.swift in Sources */,
+				DA3CE29F1FC42E3300F3A9DB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DA3CE2281FC3401600F3A9DB /* Main.storyboard */ = {
+		DA3CE2A21FC42E3300F3A9DB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DA3CE2291FC3401600F3A9DB /* Base */,
+				DA3CE2A31FC42E3300F3A9DB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		DA3CE22D1FC3401600F3A9DB /* LaunchScreen.storyboard */ = {
+		DA3CE2A71FC42E3300F3A9DB /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DA3CE22E1FC3401600F3A9DB /* Base */,
+				DA3CE2A81FC42E3300F3A9DB /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -167,7 +167,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		DA3CE2311FC3401600F3A9DB /* Debug */ = {
+		DA3CE2AB1FC42E3300F3A9DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +224,7 @@
 			};
 			name = Debug;
 		};
-		DA3CE2321FC3401600F3A9DB /* Release */ = {
+		DA3CE2AC1FC42E3300F3A9DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -274,28 +274,28 @@
 			};
 			name = Release;
 		};
-		DA3CE2341FC3401600F3A9DB /* Debug */ = {
+		DA3CE2AE1FC42E3300F3A9DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "First App/Info.plist";
+				INFOPLIST_FILE = "Catch Snuffles/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.paulapithon.First-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.paulapithon.Catch-Snuffles";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		DA3CE2351FC3401600F3A9DB /* Release */ = {
+		DA3CE2AF1FC42E3300F3A9DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "First App/Info.plist";
+				INFOPLIST_FILE = "Catch Snuffles/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.paulapithon.First-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.paulapithon.Catch-Snuffles";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DA3CE21C1FC3401600F3A9DB /* Build configuration list for PBXProject "First App" */ = {
+		DA3CE2961FC42E3200F3A9DB /* Build configuration list for PBXProject "Catch Snuffles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA3CE2311FC3401600F3A9DB /* Debug */,
-				DA3CE2321FC3401600F3A9DB /* Release */,
+				DA3CE2AB1FC42E3300F3A9DB /* Debug */,
+				DA3CE2AC1FC42E3300F3A9DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA3CE2331FC3401600F3A9DB /* Build configuration list for PBXNativeTarget "First App" */ = {
+		DA3CE2AD1FC42E3300F3A9DB /* Build configuration list for PBXNativeTarget "Catch Snuffles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA3CE2341FC3401600F3A9DB /* Debug */,
-				DA3CE2351FC3401600F3A9DB /* Release */,
+				DA3CE2AE1FC42E3300F3A9DB /* Debug */,
+				DA3CE2AF1FC42E3300F3A9DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DA3CE2191FC3401600F3A9DB /* Project object */;
+	rootObject = DA3CE2931FC42E3200F3A9DB /* Project object */;
 }
